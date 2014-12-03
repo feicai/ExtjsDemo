@@ -1,0 +1,17 @@
+.header{
+	padding: 10px 10px 10px 31px;
+	color: #e4eaed;
+	font-size: 26px;
+	font-weight: bold;
+	font-family:'微软雅黑',
+	text-shadow: 0 1px 0 #4e691f;
+}
+.x-toolbar-sencha {
+	background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ad5f88), color-stop(100%, #6badf6));
+	background-image: -webkit-linear-gradient(top, #ad5f88, #6badf6);
+	background-image: -moz-linear-gradient(top, #ad5f88, #6badf6);
+	background-image: -o-linear-gradient(top, #ad5f88, #6badf6);
+	background-image: -ms-linear-gradient(top, #ad5f88, #6badf6);
+	background-image: linear-gradient(top, #ad5f88, #6badf6);
+	border-bottom: 1px solid #567422;
+}	

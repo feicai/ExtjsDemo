@@ -1,0 +1,12 @@
+.table_add {
+    background-image: url(../images/icons/table/table_add.png) !important;
+}
+.table_delete {
+    background-image: url(../images/icons/table/table_delete.png) !important;
+}
+.table_update{
+    background-image: url(../images/icons/table/table_edit.png) !important;
+}
+.table{
+    background-image: url(../images/icons/table/table.png) !important;
+}
